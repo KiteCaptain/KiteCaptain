@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Captain Kite
-- 👀 I’m interested in machine learning and algorithms,  and computer science generally.
+- 👀 I’m interested in web development, machine learning and algorithms, and computer science generally.
 - 🌱 I’m currently learning python, javascript and angular.
-- 💞️ I’m looking to collaborate on web development and python projects available.
+- 💞️ I’m looking to collaborate on web development and python projets.
 - 📫 You can reach me on my gmail incaptain703@gmail.com 
 
 <!---
